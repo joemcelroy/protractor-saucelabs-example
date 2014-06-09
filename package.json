@@ -1,0 +1,19 @@
+{
+  "name": "protractor-saucelabs",
+  "author": {
+    "name": "Joseph McElroy",
+    "email": "jmcelroy@opentable.com"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "readmeFilename": "README.md",
+  "version": "0.0.1",
+  "devDependencies": {
+    "protractor": "0.23.1"
+  }
+}
